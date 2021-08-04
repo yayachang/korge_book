@@ -1,6 +1,6 @@
 fun main() {
-    val twoQuoteString = "
+    val oneDoubleQuoteString = "
 
-    用兩個雙引號號沒辦法直接按Enter換行"
-    println("twoQuoteString:${twoQuoteString}")
+    用一對雙引號號沒辦法直接按Enter換行"
+    println("oneDoubleQuoteString:${oneDoubleQuoteString}")
 }
