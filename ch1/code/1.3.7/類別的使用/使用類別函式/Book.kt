@@ -3,7 +3,7 @@ class Book {
     var name: String = "用Kotlin做出第一個跨平台小遊戲"
     var author: String = "Yaya Chang"
     var publisher: String = "博碩出版社"
-    var pageCount = 50
+    var pageCount = 500
     var price = 600
 
     //書本的行為(類別函式)
