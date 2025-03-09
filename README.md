@@ -12,9 +12,8 @@
 * project/myserver
 
 
-#### 臉書討論區
-* https://www.facebook.com/yunghsincc
-
+#### 新版本KorGE補充資料(陸續更新)
+* https://github.com/yayachang/korge_book/wiki
 
 
 
